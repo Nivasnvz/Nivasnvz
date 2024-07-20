@@ -9,19 +9,6 @@ I upload solutions to real-world application problems and contribute to open-sou
 ## Tech Stack
 
 
-
-## Projects
-
-- **[Interactive Problems Using C & Java](https://github.com/Nivasnvz/interactive-problems-using-c-java)**
-  A collection of interactive problems and solutions using C and Java.
-
-  
-
-## Open Source Contributions
-
-- **[Interactive Problems Repo](https://github.com/Nivasnvz/interactive-problems-using-c-java)**: Maintainer
-- **Various open-source projects**: Contributor
-
 ## Interests
 
 - Web Development
