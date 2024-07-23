@@ -9,11 +9,6 @@ I upload solutions to real-world application problems and contribute to open-sou
 ## Tech Stack
 
 
-## Interests
-
-- Web Development
-- Java Developing 
-
 ## Contact
 
 - **LinkedIn**: [Nivash S](https://www.linkedin.com/in/nivas-subramani-65b470254)
