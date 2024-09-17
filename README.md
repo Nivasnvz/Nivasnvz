@@ -7,7 +7,10 @@ Welcome to my GitHub profile!
 I upload solutions to real-world application problems and contribute to open-source projects with clean, well-documented code.
 
 ## Tech Stack
-
+<div style="background-color:white; display:flex; align-items:center; padding:10;">
+  <img src="./assets/c.svg" height="30" width="50" >
+  
+</div>
 
 ## Contact
 
